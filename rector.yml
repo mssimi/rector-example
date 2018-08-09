@@ -1,0 +1,5 @@
+parameters:
+    kernel_class: 'App\Kernel'
+
+imports:
+    - { resource: 'vendor/rector/rector/config/level/symfony/symfony-constructor-injection.yml' }
